@@ -2,7 +2,7 @@
 
 Software Engineer with 10+ years building enterprise-scale web applications - deep front-end expertise in **Angular / TypeScript** (NgRx, RxJS, Nx) with full-stack experience in **Node.js** and **Java / Spring Boot**.
 
-🧩 Angular libraries on npm: [ngx-transformers](https://github.com/qwertymuzaffar/ngx-transformers) (on-device ML), [worldwind-ui](https://github.com/qwertymuzaffar/worldwind-ui) (NASA WorldWind), [ngx-kanban-board](https://github.com/qwertymuzaffar/ngx-kanban-board), [ngx-diff-viewer](https://github.com/qwertymuzaffar/ngx-diff-viewer)
+🧩 Angular libraries on npm: [ngx-transformers](https://github.com/qwertymuzaffar/ngx-transformers) (on-device ML), [ngx-kanban-board](https://github.com/qwertymuzaffar/ngx-kanban-board), [ngx-diff-viewer](https://github.com/qwertymuzaffar/ngx-diff-viewer)
 
 🤖 LLM tooling in TypeScript, zero dependencies: [memoryline](https://github.com/qwertymuzaffar/memoryline) (conversation memory), [sourcecheck](https://github.com/qwertymuzaffar/sourcecheck) (citation checks), [llm-budget](https://github.com/qwertymuzaffar/llm-budget) (per-user spend limits), [chunklet](https://github.com/qwertymuzaffar/chunklet) + [minivec](https://github.com/qwertymuzaffar/minivec) (RAG chunking and vector search), [deidentify](https://github.com/qwertymuzaffar/deidentify), [leakcheck](https://github.com/qwertymuzaffar/leakcheck)
 
